@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DrawerActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Second_activity"
             android:theme="@style/AppTheme.NoActionBar"/>
 
